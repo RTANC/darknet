@@ -9,6 +9,9 @@
 *.dll
 *.lib
 *.dylib
+*.tar
+*.zip
+VOCdevkit/
 mnist/
 data/
 caffe/
